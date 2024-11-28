@@ -9,8 +9,7 @@
   </project>
   <project remote="origin" name="vendor_qcom_proprietary_camera-devicetree" path="vendor/camera-devicetree" revision="peridot-u-oss"/>
   <project remote="origin" name="vendor_qcom_proprietary_display-devicetree" path="vendor/display-devicetree" revision="peridot-u-oss"/>
-  <project remote="origin" name="vendor_qcom_proprietary_camera-kernel" path="vendor/camera-kernel" revision="peridot-u-oss"/>
-  <project remote="origin" name="vendor_qcom_opensource_data-kernel" path="vendor/data-kernel" revision="peridot-u-oss"/>
+  <project remote="origin" name="vendor_qcom_opensource_camera-kernel" path="vendor/camera-kernel" revision="peridot-u-oss"/>
   <project remote="origin" name="vendor_qcom_opensource_audio-kernel" path="vendor/audio-kernel" revision="peridot-u-oss"/>
   <project remote="origin" name="vendor_opensource_display-drivers" path="vendor/display-drivers" revision="peridot-u-oss"/>
   <project remote="origin" name="kernel_build" path="build" revision="peridot-u-oss"/>
